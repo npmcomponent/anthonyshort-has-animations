@@ -1,0 +1,9 @@
+{
+  "name": "anthonyshort-has-animations",
+  "description": "Tiny component to detect browser support for CSS animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
